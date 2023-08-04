@@ -1,2 +1,3 @@
-# ola mundo
- primeiro repositório
+# olá, mundo!
+ primeiro repositório no github 
+ -----------------------------------
